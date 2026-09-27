@@ -37,7 +37,7 @@ First, define the parameters for your signals:
 
 * Carrier frequency (fc)
 * Modulating signal frequency (fm)
-* Sampling frequency (Fs)
+* Sampling frequency (Fs).
 * Duration of the signal (T)
 
 ### 2. Create Time Vector
